@@ -16,6 +16,7 @@ Interview test #1 (Web)
     - On tap/click of each list item a final detail page should show with the meal description and incredients.
 - The whole application should be viewable and functional both on web and a mobile device.
 - Commit and Push to your forked repository your final code and send us a URL with it.
+  - If your configuration requires additional steps other than a simple `npm install`, it is required to include detailed steps to achive the configuration both on Windows and MacOS environments (in the repository README file).
 
 
 Thanks and have fun!
