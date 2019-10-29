@@ -1,5 +1,5 @@
-# InterviewTestWeb
-Interview test #1 (Web)
+# InterviewTestIntegration
+Interview test #1 (API Integration)
 
 #Problem
 
